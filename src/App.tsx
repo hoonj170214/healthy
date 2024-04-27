@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <header></header>
+      <header>안녕!</header>
       <main></main>
       <footer></footer>
     </div>
